@@ -19,17 +19,17 @@ pipenv shell
 ```
 5. Edit parameters
 ```sh
-#range of dates to poll for
+##range of dates to poll for
 start_date = "2020-10-01"
 end_date = "2020-10-31"
 
-#individual dates to check
+##individual dates to check
 entry_date = ['2020-10-04', '2020-10-05']
-#location codes to check
+##location codes to check
 location_code = ["460", "461"]
 party_size = 4
 
-#polling interval in seconds
+##polling interval in seconds
 interval = 60
 ```
 6. Start Polling
