@@ -36,3 +36,8 @@ interval = 60
 ```sh
 python poll.py
 ```
+### Example Output
+```sh
+ALERT: 5 slots available for 460 on 2020-10-04!!
+ALERT: 5 slots available for 460 on 2020-10-05!!
+```
