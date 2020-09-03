@@ -13,7 +13,11 @@ mkdir .venv
 ```sh
 pipenv install
 ```
-4. Edit parameters
+6. Enter Virtual Enviroment
+```sh
+pipenv shell
+```
+5. Edit parameters
 ```sh
 #range of dates to poll for
 start_date = "2020-10-01"
@@ -28,7 +32,7 @@ party_size = 4
 #polling interval in seconds
 interval = 60
 ```
-5. Start Polling
+6. Start Polling
 ```sh
 python poll.py
 ```
