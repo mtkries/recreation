@@ -3,7 +3,7 @@
 
 1. Clone the repo
 ```sh
-git clone https://github.com/danielchowofficiall/recreation.GIT
+git clone https://github.com/danielchowofficiall/recreation.git
 ```
 2. Make local .venv folder
 ```sh
