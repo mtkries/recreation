@@ -26,7 +26,8 @@ location_code = ["460", "461"]
 party_size = 4
 
 #polling interval in seconds
-interval = 60```
+interval = 60
+```
 5. Start Polling
 ```sh
 python poll.py
